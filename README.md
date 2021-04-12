@@ -1,0 +1,2 @@
+# Charlotte-Hornets-Four-Factors-Analysis-and-Player-Clustering
+In this project I analyze the Charlotte Hornets basketball team regarding the Four Factors. I create a linear regression model based on past seasons of the NBA using the Four Factors as input and evaluate how the Hornets are performing during the current NBA season. Last, I cluster NBA players using Principal Component Analysis and K-Means clustering. I then use my clustering model to determine the types of players on the Charlotte Hornets' roster.
