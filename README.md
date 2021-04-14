@@ -1,4 +1,4 @@
-# Charlotte Hornets Four-Factors Analysis and Player Clustering
+# Four Factors Analysis and Player Clustering
 
 > In this project, I analyze the Charlotte Hornets basketball team regarding the Four Factors by Dean Oliver. These are **Shooting**, **Turnovers**, **Rebounding**, and **Free Throws**.
 >
